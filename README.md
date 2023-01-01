@@ -1,2 +1,2 @@
 # Travelly
-Travelly is travel booking website 
+Travelly is travel booking website developed in vanilla java script
